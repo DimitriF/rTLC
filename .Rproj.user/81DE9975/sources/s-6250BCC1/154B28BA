@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537435118631.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "66843792",
+    "id" : "154B28BA",
+    "lastKnownWriteTime" : 1537435437,
+    "last_content_update" : 1537435437,
+    "path" : "~/Documents/rTLC/R/run.rTLC.R",
+    "project_path" : "R/run.rTLC.R",
+    "properties" : {
+        "cursorPosition" : "9,8",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

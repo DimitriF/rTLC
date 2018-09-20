@@ -1,0 +1,15 @@
+Package: rTLC
+Type: Package
+Title: rTLC shiny application for multivariate image analysis in planar chromatography
+Version: 1.0.0
+Author: Fichou Dimitri
+Maintainer: Fichou Dimitri <dimitrifichou@gmail.com>
+Description: rTLC shiny application for multivariate image analysis in planar chromatography
+License: GPL
+Encoding: UTF-8
+Depends: shiny,jpeg,png,tiff,caret,klaR,xlsx,ChemometricsWithR,gplots,kohonen,memoise,devtools,chemometrics,
+      ggplot2,abind,plyr,dplyr,prospectr,DiscriMiner,baseline,knitr,xtable,rmarkdown,
+      ptw,dtw,shinyAce,shinydashboard,d3heatmap,randomForest,kernlab,ipred,extraTrees,evtree,
+      htmltools,httpuv,mime,MASS,pls,rpart,e1071,FBN,threejs
+LazyData: TRUE
+RoxygenNote: 6.0.1
